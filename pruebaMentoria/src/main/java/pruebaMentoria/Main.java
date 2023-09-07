@@ -7,5 +7,8 @@ public class Main {
 		System.out.println("hola mundo gray");
 		System.out.println("hola mundo gray");
 		System.out.println("hola mundo gray");
+		System.out.println("hola mundo gray");
+		System.out.println("hola mundo gray");
+		System.out.println("hola mundo gray");
 	}
 }
